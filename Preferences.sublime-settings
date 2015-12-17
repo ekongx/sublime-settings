@@ -1,0 +1,19 @@
+{
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"centurion_folder_icons": true,
+	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+	"font_size": 11,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line-height": 1.9,
+	"line_padding_bottom": 2.3,
+	"line_padding_top": 2,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Light.sublime-theme",
+	"word_wrap": true
+}
