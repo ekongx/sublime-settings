@@ -2,16 +2,17 @@
 	"auto_complete": true,
 	"auto_match_enabled": true,
 	"centurion_folder_icons": true,
-	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
+	"font_face": "Courier New",
 	"font_size": 11,
 	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line-height": 1.9,
-	"line_padding_bottom": 2.3,
-	"line_padding_top": 2,
+	"line-height": 2.4,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"theme": "Soda Light.sublime-theme",
