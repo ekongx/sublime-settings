@@ -2,19 +2,23 @@
 	"auto_complete": true,
 	"auto_match_enabled": true,
 	"centurion_folder_icons": true,
-	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
-	"font_face": "Courier New",
-	"font_size": 11,
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Source Code Pro",
+	"font_size": 16,
 	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line-height": 2.4,
-	"line_padding_bottom": 4,
-	"line_padding_top": 4,
+	"line_padding_bottom": 4.5,
+	"line_padding_top": 4.5,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
-	"theme": "Soda Light.sublime-theme",
+	"tab_size": 4,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
 	"word_wrap": true
 }
